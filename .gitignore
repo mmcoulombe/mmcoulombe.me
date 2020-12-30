@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# games folder
+public/games
+
 # production
 /build
 

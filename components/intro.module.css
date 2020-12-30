@@ -1,0 +1,12 @@
+.topCover {
+    height: calc(100vh - 380px);
+    min-height: 520px;
+    background-color: #667eea
+}
+
+.border {
+    background-color: #111;
+    color: #fff;
+    padding: 1em;
+    letter-spacing: 10px;
+}
